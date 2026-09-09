@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
-  "notes": "Arreglo del puerto al arrancar e iconos de proyecto",
-  "min_runtime": "1.0.1",
+  "version": "1.0.2",
+  "notes": "Rutas de proyecto que se reparan solas, icono en el listado de ideas y aviso de arranque mas largo",
+  "min_runtime": "1.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.1/panel-proyectos-1.0.1-code.zip",
-    "sha256": "82dd27c5433a198c3f634b9821fbe445a7e65c67261ac9439b439614c7b93b8e"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.2/panel-proyectos-1.0.2-code.zip",
+    "sha256": "786207271560873c7a22efa161166bea425a8b554440a8fcff89e8909e591227"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.1/PanelProyectos-Setup-1.0.1.exe"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.2"
   }
 }
