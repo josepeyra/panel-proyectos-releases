@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
-  "notes": "Rutas de proyecto que se reparan solas, icono en el listado de ideas y aviso de arranque mas largo",
+  "version": "1.0.3",
+  "notes": "Filtros y orden en la bandeja de ideas, controles alineados y boton Borrar en rojo.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.2/panel-proyectos-1.0.2-code.zip",
-    "sha256": "786207271560873c7a22efa161166bea425a8b554440a8fcff89e8909e591227"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.3/panel-proyectos-1.0.3-code.zip",
+    "sha256": "f91a89a9df504227628f91fc47f001b885bbdc790b07df114f45bc20cc7cca53"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.2"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.3"
   }
 }
