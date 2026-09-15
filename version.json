@@ -1,12 +1,12 @@
 {
-  "version": "1.0.4",
-  "notes": "La ficha del proyecto tiene dos botones: Abrir instalada y Arrancar desarrollo. El panel detecta las aplicaciones instaladas en Windows.",
+  "version": "1.0.5",
+  "notes": "Boton verde Hecha en cada idea y filtro por situacion (vivas, en marcha, hechas, descartadas) en la ficha del proyecto.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.4/panel-proyectos-1.0.4-code.zip",
-    "sha256": "92b3498bf94fdb9bb41e8bdd65b1cf760d2a8e32a2d0efbde50fe9342866b19c"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.5/panel-proyectos-1.0.5-code.zip",
+    "sha256": "8ddc1b22fbbef86a0f588c91e0011932b77d159d5bb21e9aa87d5d6294e635f3"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.4"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.5"
   }
 }
