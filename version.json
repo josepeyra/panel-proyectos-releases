@@ -1,12 +1,12 @@
 {
-  "version": "1.0.7",
-  "notes": "Las apps de los proyectos se actualizan desde el panel: chip en la tarjeta cuando hay version nueva y boton Actualizar en la ficha, que descarga el codigo publicado y lo instala sin abrir la app. Si la app esta abierta pide cerrarla; si hace falta motor nuevo abre la pagina del instalador.",
+  "version": "1.0.8",
+  "notes": "Las entradas nuevas del catalogo se añaden solas a las bases que ya existen (si se borran del panel no vuelven). Entra el proyecto Apuestas balonmano, bot de Telegram de apuestas por bote para el equipo, con su API en el puerto 8888.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.7/panel-proyectos-1.0.7-code.zip",
-    "sha256": "567014ac2b15c6007b2ce17f574aa9b322b83c77117d0b2c243f5546ba09ac9c"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.8/panel-proyectos-1.0.8-code.zip",
+    "sha256": "5e25d31b8c8f6ea304a932a8859d41a813cf7febcc3d9e913266ab6d5fd7edbe"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.7"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.8"
   }
 }
