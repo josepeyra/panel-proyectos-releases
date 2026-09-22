@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "notes": "Panel Q1 pasa a ser Organizador Universidad: nueva carpeta de desarrollo y deteccion de la app instalada con el nuevo nombre.",
+  "version": "1.0.7",
+  "notes": "Las apps de los proyectos se actualizan desde el panel: chip en la tarjeta cuando hay version nueva y boton Actualizar en la ficha, que descarga el codigo publicado y lo instala sin abrir la app. Si la app esta abierta pide cerrarla; si hace falta motor nuevo abre la pagina del instalador.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.6/panel-proyectos-1.0.6-code.zip",
-    "sha256": "9f0fb567f68557391eac1fbed6032466897afdb3e4863c7ec36df106b3b4faee"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.7/panel-proyectos-1.0.7-code.zip",
+    "sha256": "567014ac2b15c6007b2ce17f574aa9b322b83c77117d0b2c243f5546ba09ac9c"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.6/PanelProyectos-Setup-1.0.6.exe"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.7"
   }
 }
