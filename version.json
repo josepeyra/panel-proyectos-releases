@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
-  "notes": "Las entradas nuevas del catalogo se añaden solas a las bases que ya existen (si se borran del panel no vuelven). Entra el proyecto Apuestas balonmano, bot de Telegram de apuestas por bote para el equipo, con su API en el puerto 8888.",
+  "version": "1.0.9",
+  "notes": "Arreglo: guardar la ficha de un proyecto daba error desde la 1.0.7. Apuestas balonmano arranca con desarrollar.bat (API en el 8888 y su documentacion en el navegador).",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.8/panel-proyectos-1.0.8-code.zip",
-    "sha256": "5e25d31b8c8f6ea304a932a8859d41a813cf7febcc3d9e913266ab6d5fd7edbe"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.9/panel-proyectos-1.0.9-code.zip",
+    "sha256": "fb6d32818841508ea7faecec6be97d3bf97651f7b40fa76561e5de44662b788f"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.8"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.9"
   }
 }
