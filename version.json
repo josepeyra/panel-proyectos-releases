@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "notes": "Los proyectos hosteados tienen campo Web publicada y boton Abrir web: el panel abre la direccion en el navegador en vez de arrancar nada. Apuestas balonmano ya trae su direccion.",
+  "version": "1.0.12",
+  "notes": "La ficha de Clases ASES recoge sus tres piezas y trae la direccion de la web: el boton del tablero la abre en el navegador.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.11/panel-proyectos-1.0.11-code.zip",
-    "sha256": "3c83de0e3f548fc6b4f2be78f035b8009b3f4ec40df565458c5c68bb6555b918"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.12/panel-proyectos-1.0.12-code.zip",
+    "sha256": "699408b1109337d72b15c9c1fc20735e56b9fde47e497e297cc00e4b69b19ffe"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.11"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.12"
   }
 }
