@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
-  "notes": "Arreglo: guardar la ficha de un proyecto daba error desde la 1.0.7. Apuestas balonmano arranca con desarrollar.bat (API en el 8888 y su documentacion en el navegador).",
+  "version": "1.0.10",
+  "notes": "Arreglo: el boton Arrancar desarrollo no hacia nada en equipos donde cmd no busca en la carpeta actual; ahora el .bat se lanza con su ruta completa.",
   "min_runtime": "1.0.1",
   "code": {
-    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.9/panel-proyectos-1.0.9-code.zip",
-    "sha256": "fb6d32818841508ea7faecec6be97d3bf97651f7b40fa76561e5de44662b788f"
+    "url": "https://github.com/josepeyra/panel-proyectos-releases/releases/download/v1.0.10/panel-proyectos-1.0.10-code.zip",
+    "sha256": "d44b61ec3f56b28ef5b4bfd26b4d475aec80dad2f541eb33d9e2f05f090ff132"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.9"
+    "windows": "https://github.com/josepeyra/panel-proyectos-releases/releases/tag/v1.0.10"
   }
 }
